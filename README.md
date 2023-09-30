@@ -9,11 +9,10 @@
 - Carlos Pimiento 
 
 # Comandos
-  - FrontEnd: npm run dev
+    npm run dev
 
 # Profesor
-
-    Ing. Freddy David Ramirez
+  Ing. Freddy David Ramirez
 
 # Funcionalidades
 
